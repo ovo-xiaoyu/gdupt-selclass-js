@@ -12,8 +12,9 @@
 ## 食用方法
 
 1.使用任一脚本加载器（油猴/暴力猴/scriptcat 都行）安装仓库中的插件```抢课脚本.js```（直接全选复制过去都行，不会就去百度吧）
+推荐：[https://microsoftedge.microsoft.com/addons/detail/%E8%84%9A%E6%9C%AC%E7%8C%AB/liilgpjgabokdklappibcjfablkpcekh?hl=zh-CN](https://microsoftedge.microsoft.com/addons/detail/%E8%84%9A%E6%9C%AC%E7%8C%AB/liilgpjgabokdklappibcjfablkpcekh?hl=zh-CN)
 
-2.打开教务系统选课页面，脚本页面会在选课页面的左上角加载
+2.打开教务系统选课页面，脚本页面会在选课页面的左上角加载 ***<u>如果脚本界面没有看见 请换用Scriptcat</u>***
 
 ![image-20241226181214865](./assets/image-20241226181214865.png)
 
